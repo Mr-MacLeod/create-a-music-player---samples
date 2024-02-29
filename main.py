@@ -1,0 +1,16 @@
+music.play(music.create_song(assets.song("""
+        falling-blossoms
+    """)),
+    music.PlaybackMode.UNTIL_DONE)
+music.play(music.create_song(assets.song("""
+        curious-blob
+    """)),
+    music.PlaybackMode.UNTIL_DONE)
+music.play(music.create_song(assets.song("""
+        jolliest-of-rogers
+    """)),
+    music.PlaybackMode.UNTIL_DONE)
+music.play(music.create_song(assets.song("""
+        bow-the-mighty-oak
+    """)),
+    music.PlaybackMode.UNTIL_DONE)
